@@ -1,0 +1,14 @@
+C:\Users\vjola\source\repos\Api___cache\Api___cache\bin\Debug\netcoreapp2.2\Api_Cache.deps.json
+C:\Users\vjola\source\repos\Api___cache\Api___cache\bin\Debug\netcoreapp2.2\Api_Cache.runtimeconfig.json
+C:\Users\vjola\source\repos\Api___cache\Api___cache\bin\Debug\netcoreapp2.2\Api_Cache.runtimeconfig.dev.json
+C:\Users\vjola\source\repos\Api___cache\Api___cache\bin\Debug\netcoreapp2.2\Api_Cache.dll
+C:\Users\vjola\source\repos\Api___cache\Api___cache\bin\Debug\netcoreapp2.2\Api_Cache.pdb
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.csprojAssemblyReference.cache
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.csproj.CoreCompileInputs.cache
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.RazorAssemblyInfo.cache
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.RazorAssemblyInfo.cs
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.AssemblyInfoInputs.cache
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.AssemblyInfo.cs
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.RazorTargetAssemblyInfo.cache
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.dll
+C:\Users\vjola\source\repos\Api___cache\Api___cache\obj\Debug\netcoreapp2.2\Api_Cache.pdb

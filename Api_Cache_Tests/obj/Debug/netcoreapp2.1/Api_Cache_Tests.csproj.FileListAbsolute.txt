@@ -1,0 +1,14 @@
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\Api_Cache_Tests.deps.json
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\Api_Cache_Tests.runtimeconfig.json
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\Api_Cache_Tests.runtimeconfig.dev.json
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\Api_Cache_Tests.dll
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\bin\Debug\netcoreapp2.1\Api_Cache_Tests.pdb
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\obj\Debug\netcoreapp2.1\Api_Cache_Tests.csprojAssemblyReference.cache
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\obj\Debug\netcoreapp2.1\Api_Cache_Tests.csproj.CoreCompileInputs.cache
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\obj\Debug\netcoreapp2.1\Api_Cache_Tests.AssemblyInfoInputs.cache
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\obj\Debug\netcoreapp2.1\Api_Cache_Tests.AssemblyInfo.cs
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\obj\Debug\netcoreapp2.1\Api_Cache_Tests.dll
+C:\Users\vjola\source\repos\Api___cache\Api_Cache_Tests\obj\Debug\netcoreapp2.1\Api_Cache_Tests.pdb

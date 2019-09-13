@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Cache", "Api___cache\Api_Cache.csproj", "{287CEAFD-F937-499D-B9EC-131311AAC383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Cache_Tests", "Api_Cache_Tests\Api_Cache_Tests.csproj", "{9F693E48-AAF2-4A1C-B71F-2190460D7A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287CEAFD-F937-499D-B9EC-131311AAC383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287CEAFD-F937-499D-B9EC-131311AAC383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287CEAFD-F937-499D-B9EC-131311AAC383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287CEAFD-F937-499D-B9EC-131311AAC383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F693E48-AAF2-4A1C-B71F-2190460D7A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F693E48-AAF2-4A1C-B71F-2190460D7A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F693E48-AAF2-4A1C-B71F-2190460D7A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F693E48-AAF2-4A1C-B71F-2190460D7A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948066D3-1216-4CBE-8DA3-589166181CD5}
+	EndGlobalSection
+EndGlobal
