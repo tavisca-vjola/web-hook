@@ -1,0 +1,14 @@
+C:\Users\vjola\source\ui\web-hook\web-hook\bin\Debug\netcoreapp2.2\web-hook.deps.json
+C:\Users\vjola\source\ui\web-hook\web-hook\bin\Debug\netcoreapp2.2\web-hook.runtimeconfig.json
+C:\Users\vjola\source\ui\web-hook\web-hook\bin\Debug\netcoreapp2.2\web-hook.runtimeconfig.dev.json
+C:\Users\vjola\source\ui\web-hook\web-hook\bin\Debug\netcoreapp2.2\web-hook.dll
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.csprojAssemblyReference.cache
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.csproj.CoreCompileInputs.cache
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.RazorAssemblyInfo.cache
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.RazorAssemblyInfo.cs
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.AssemblyInfoInputs.cache
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.AssemblyInfo.cs
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.RazorTargetAssemblyInfo.cache
+C:\Users\vjola\source\ui\web-hook\web-hook\bin\Debug\netcoreapp2.2\web-hook.pdb
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.dll
+C:\Users\vjola\source\ui\web-hook\web-hook\obj\Debug\netcoreapp2.2\web-hook.pdb
