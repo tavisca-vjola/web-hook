@@ -15,19 +15,10 @@ namespace web_hook
     {
         public static void Main(string[] args)
         {
-            Log.Logger = new LoggerConfiguration()
-                .MinimumLevel.Verbose()
-                .WriteTo.Console()
-                .WriteTo.File("Logs\\LogFile.txt")
-                .CreateLogger();
-            try
-            {
-                CreateWebHostBuilder(args).Build().Run();
-            }
-            finally
-            {
-                Log.CloseAndFlush();
-            }
+            
+    
+              CreateWebHostBuilder(args).Build().Run();
+         
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
